@@ -1,4 +1,3 @@
-// 引用链接: https://kelee.one/Resource/JavaScript/12306/12306_remove_splashscreen_ads.js
 /*
 引用地址https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/12306.js
 */

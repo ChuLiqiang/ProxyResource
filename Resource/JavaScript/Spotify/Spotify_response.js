@@ -1,4 +1,3 @@
-// 引用链接: https://kelee.one/Resource/JavaScript/Spotify/Spotify_response.js
 /*
 脚本引用https://raw.githubusercontent.com/DualSubs/Spotify/main/js/Spotify.response.js
 脚本时间24-02-07 16:48

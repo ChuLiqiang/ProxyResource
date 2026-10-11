@@ -1,4 +1,3 @@
-// 引用链接: https://kelee.one/Resource/JavaScript/WexinMiniPrograms/chayanyuese/chayanyuese_remove_ads.js
 let obj=JSON.parse($response.body);
 delete obj.data.INDEX_SLOT_01;
 delete obj.data.INDEX_SLOT_02;

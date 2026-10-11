@@ -1,4 +1,3 @@
-// 引用链接: https://kelee.one/Resource/JavaScript/Node_detection_tool/NodeUnlockDetection.js
 /*
  * 节点解锁查询
  * 感谢并修改自 https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/streaming-ui-check.js

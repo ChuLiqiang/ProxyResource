@@ -1,4 +1,3 @@
-// 引用链接: https://kelee.one/Resource/JavaScript/JD/JD_Price.js
 /*
 脚本引用 https://raw.githubusercontent.com/githubdulong/Script/master/jd_price.js
 */

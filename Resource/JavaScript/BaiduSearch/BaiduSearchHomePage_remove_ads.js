@@ -1,4 +1,3 @@
-// 引用链接: https://kelee.one/Resource/JavaScript/BaiduSearch/BaiduSearchHomePage_remove_ads.js
 /*
 脚本引用https://raw.githubusercontent.com/Keywos/rule/main/JS/baiduindex.js
 */
