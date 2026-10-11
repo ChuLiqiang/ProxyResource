@@ -1,3 +1,4 @@
+// 引用链接: https://kelee.one/Resource/JavaScript/Spotify/Translate_response.js
 /*
 脚本引用https://raw.githubusercontent.com/DualSubs/Universal/main/js/Translate.response.js
 脚本时间24-02-20 11:11

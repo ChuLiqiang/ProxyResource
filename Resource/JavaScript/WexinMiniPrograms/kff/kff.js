@@ -1,3 +1,4 @@
+// 引用链接: https://kelee.one/Resource/JavaScript/WexinMiniPrograms/kff/kff.js
 let obj = JSON.parse($response.body);
 obj.data.config = JSON.stringify(JSON.parse(obj.data.config).filter(item => !item.id.includes("13502ede-f5fd-4d5c-90f5-f2454a30fda0")));
 obj.data.config = JSON.stringify(JSON.parse(obj.data.config).filter(item => !item.id.includes("c1caaf62-e91d-4040-b533-dab39c0fec13")));

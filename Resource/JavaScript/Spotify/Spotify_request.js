@@ -1,3 +1,4 @@
+// 引用链接: https://kelee.one/Resource/JavaScript/Spotify/Spotify_request.js
 /*
 脚本引用https://raw.githubusercontent.com/DualSubs/Spotify/main/js/Spotify.request.js
 脚本时间24-02-05 10:06

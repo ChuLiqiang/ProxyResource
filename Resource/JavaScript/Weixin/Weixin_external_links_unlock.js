@@ -1,3 +1,4 @@
+// 引用链接: https://kelee.one/Resource/JavaScript/Weixin/Weixin_external_links_unlock.js
 /*
 引用地址https://raw.githubusercontent.com/zZPiglet/Task/master/asset/UnblockURLinWeChat.js
 */

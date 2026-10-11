@@ -1,3 +1,4 @@
+// 引用链接: https://kelee.one/Resource/JavaScript/Node_detection_tool/LocationDetection.js
 /* 测试 api
  * 地理位置查询
  * 感谢并修改自https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/geo_location.js

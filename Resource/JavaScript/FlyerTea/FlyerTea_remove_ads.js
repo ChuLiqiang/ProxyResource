@@ -1,3 +1,4 @@
+// 引用链接: https://kelee.one/Resource/JavaScript/FlyerTea/FlyerTea_remove_ads.js
 // 2024-07-10 10:53:30
 var url = $request.url;
 var body = $response.body;

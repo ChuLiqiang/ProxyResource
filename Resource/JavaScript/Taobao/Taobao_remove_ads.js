@@ -1,3 +1,4 @@
+// 引用链接: https://kelee.one/Resource/JavaScript/Taobao/Taobao_remove_ads.js
 /*
 脚本引用https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/myBlockAds.js
 */

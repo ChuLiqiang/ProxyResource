@@ -1,3 +1,4 @@
+// 引用链接: https://kelee.one/Resource/JavaScript/WexinMiniPrograms/M_Stand/M_Stand.js
 let obj=JSON.parse($response.body);
 delete obj.data.homeNewsAdv.jumpValue ;
 delete obj.data.homeDineInAdv ;
